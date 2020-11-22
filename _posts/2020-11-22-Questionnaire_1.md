@@ -5,8 +5,10 @@ Do you need these for deep learning?
 2. Lots of data 
 3. Lots of expensive computers 
 4. A PhD 
+- No.
 
 Name five areas where deep learning is now the best tool in the world. 
+- Image recognition
 
 What was the name of the first device that was based on the principle of the artificial neuron? 
 
@@ -16,11 +18,10 @@ What were the two theoretical misunderstandings that held back the field of neur
 
 What is a GPU? 
 
-Open a notebook and execute a cell containing: 1+1. What happens? 
-
 Complete the Jupyter Notebook online appendix. 
 
 Why is it hard to use a traditional computer program to recognize images in a photo? 
+- We can not describe the recognition process step by step.
 
 What did Samuel mean by “weight assignment”? 
 
@@ -37,6 +38,7 @@ What do you need in order to train a model?
 How could a feedback loop impact the rollout of a predictive policing model? 
 
 Do we always have to use 224×224-pixel images with the cat recognition model? 
+- No
 
 What is the difference between classification and regression?
 
@@ -45,6 +47,7 @@ What is a validation set? What is a test set? Why do we need them?
 What will fastai do if you don’t provide a validation set? 
 
 Can we always use a random sample for a validation set? Why or why not? 
+- No. If Always random, then you cannot compare the results.
 
 What is overfitting? Provide an example.
 
@@ -59,6 +62,7 @@ What kinds of features do the early layers of a CNN find? How about the later la
 Are image models useful only for photos? 
 
 What is an architecture? 
+- The function/model
 
 What is segmentation? 
 

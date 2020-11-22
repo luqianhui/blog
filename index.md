@@ -1,5 +1,7 @@
-Hello, welcome to the blog of Qianhui LU.
-I write down all I learned on the domain of data science here.
+Hello, Welcome to the blog of Qianhui LU.
+
+
+I write down all I learned on data science here.
  
 # The Journal to Data Science
 

@@ -1,4 +1,4 @@
-Hello and welcome to my blog. I writes down all I learned on the domain of data science here.
+Hello and welcome to the blog of Qianhui LU. I writes down all I learned on the domain of data science here.
 All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). 
 
 You can include images:

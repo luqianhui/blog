@@ -1,9 +1,9 @@
-Hello, Welcome to the blog of Qianhui LU.
+Hello, Welcome to the blog of Qianhui LU. The best way to learn is to share with others. 
 
 
 I write down all I learned on data science here.
  
-# The Journal to Data Science
+## The Journal to Data Science
 
 My learning reference:
 [Practical deep learning for coders](https://course.fast.ai/)  

@@ -20,12 +20,22 @@ Name five areas where deep learning is now the best tool in the world.
 - Other applications:: Financial and logistical forecasting, text to speech, and much more...
 
 What was the name of the first device that was based on the principle of the artificial neuron? 
+- the Mark I Perceptron
 
 Based on the book of the same name, what are the requirements for parallel distributed processing (PDP)? 
+- A set of processing units
+- A state of activation
+- An output function for each unit
+- A pattern of connectivity among units
+- A propagation rule for propagating patterns of activities through the network of connectivities
+- An activation rule for combining the inputs impinging on a unit with the current state of that unit to produce an output for the unit
+- A learning rule whereby patterns of connectivity are modified by experience
+- An environment within which the system must operate
 
 What were the two theoretical misunderstandings that held back the field of neural networks? 
 
 What is a GPU? 
+- Graphics Processing Unit (GPU): Also known as a _graphics card_. A special kind of processor in your computer that can handle thousands of single tasks at the same time, especially designed for displaying 3D environments on a computer for playing games. These same basic tasks are very similar to what neural networks do, such that GPUs can run neural networks hundreds of times faster than regular CPUs. All modern computers contain a GPU, but few contain the right kind of GPU necessary for deep learning.
 
 Complete the Jupyter Notebook online appendix. 
 
